@@ -64,6 +64,7 @@ All images are loaded from Amply's CDN (`cdn.prod.website-files.com`). Key asset
 
 ## Recent Changes
 
+- Nov 4, 2026: Changed the main headline at the top of the homepage from "Webflow sites for B2b" to "Webflow sites that convert for B2B"
 - Added data editor panel to Analytics Dashboard - click "Edit Data" to update metrics for any week or add new weeks. Data saves to your browser automatically.
 - Added Analytics Dashboard (`/dashboard`) with sidebar navigation, week selector, KPI cards, trend arrows, and comparison line charts
 - Added Marketing Report slide presentation page (`/report`) with 5 interactive slides covering the full marketing funnel
